@@ -11,8 +11,3 @@ The outcome of this modeling project was a pretty cool and unexpected conclusion
 ## Please cite:
 Klempay, B., Snow, S. S., & Prum, R. O. (2017). The Tragedy of the Lek: a game-theoretic approach to understanding
 courtship disruption in male sage grouse. _Yale College senior thesis._
-
-<br>
-
-![Cock of the Plains. From 'The Birds of America' by John J. Audubon](https://www.audubongalleries.com/pictures/07850.jpg)
-<br> Cock of the Plains. From _The Birds of America_ by John J. Audubon. (Courtesy of [Audubon Galleries](https://www.audubongalleries.com/pages/books/7850/john-james-audubon/cock-of-the-plains-from-the-birds-of-america-amsterdam-edition)).
